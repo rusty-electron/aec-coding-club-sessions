@@ -1,0 +1,18 @@
+Following the Club Year Plan for 2018, AEC Coding Club will be organizing sessions on Web Development Fundamentals that will be exclusive to its registered members. The first phase of the session schedule is expected to cover:
+* Internet Basics
+* Intro to HTML5 & CSS3
+* Tips and Tricks - block vs. inline, 
+  margin, padding and border
+* Designing a Blog page - Walkthrough
+
+The content will be beginner-friendly so club members from first semester as well as other semesters can attend. The sessions shall begin from the second week of September. The exact timing and venue shall be notified at the Club Page.
+https://www.facebook.com/aeccodingclub/
+
+Requirements:
+* Laptop with working WiFi functionality
+* Google Chrome/Firefox Quantum with recent updates
+* Teamviewer Software
+* Decent Text editor (either of Sublime Text, Notepad++, VS Code)
+
+-- Pritom Gogoi
+AEC Coding Club
