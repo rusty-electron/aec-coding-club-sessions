@@ -9,5 +9,4 @@ This repository contains my supplementary content for the sessions organized by 
     * Tips and Tricks - block vs. inline, margin, padding and border
     * Designing a Blog page - Walkthrough
 
-> Timing : 13th September, 2018
 
