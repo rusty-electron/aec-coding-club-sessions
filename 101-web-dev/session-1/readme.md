@@ -24,3 +24,14 @@ I planned to have a projector presentation for this week but most rooms with thi
 **Update 3:** 1st October
 
 As discussed in the club meeting held today, it was decided that Subhajit Saha would be hosting a session on [Ubuntu Installation](https://www.ubuntu.com/download/desktop) this week and therefore I plan to host my session the next week.
+
+**Update 4:** 6th October
+
+Subhajit Saha held a session on [Ubuntu Installation](https://www.ubuntu.com/download/desktop).
+
+**Update 5:** 10th October
+
+
+
+
+

@@ -1,0 +1,17 @@
+The second session of Web Development is planned to be held tomorrow at the main building. But the commencing of the session is subject to working condition of projectors. We shall relay a message tomorrow in this group to confirm the session and its venue once we have checked the status of projectors. 
+
+1. Requirements:
+	* Laptop
+	* Google Chrome/Firefox Quantum with recent updates
+	* Decent Text editor (either of Sublime Text, Notepad++, VS Code)
+
+2. Discussion Topics
+	* Implementing Basic HTML
+	* Using IDE
+	* Sample Page Demo (if time permits)
+
+3. Information
+	* Timing: 12:20pm to 1:25pm
+	* Venue: To be Informed 
+	
+Note: Tomorrow's session will take place only if we confirm it in this group tomorrow. 
