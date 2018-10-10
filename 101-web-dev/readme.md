@@ -31,6 +31,14 @@ Subhajit Saha held a session on [Ubuntu Installation](https://www.ubuntu.com/dow
 
 **Update 5:** 10th October
 
+The second session of Web Development Fundamentals was held. 
+
+* **Teaching Tool:** Projector
+* **Timing:** 12:30pm - 1:40pm
+* **Venue:** Room No. 22, First Floor, AEC Main Building
+
+
+
 
 
 
