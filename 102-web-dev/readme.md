@@ -1,7 +1,7 @@
 ### Session Name: 
 ## Web Development Walkthrough - Landing Page
 
-Session Venue: Room No. 22, AEC Main Building
+**Session Venue:** Room No. 22, AEC Main Building
 
 The session was held on 11 March, 2019 and it was the first session conducted in the even semester of this academic year. The walk-through consisted of helping students to make a Landing Page that had the following elements:
 
